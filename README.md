@@ -1,7 +1,7 @@
 Last updated: 08.06.2025
 
 # 1. Introduction
-Hairfy (“Hairfy”, “we”, “our”) is a mobile application that uses AI-powered technology to apply hairstyle and hair color transformations to user-uploaded photos. This Privacy Policy explains what personal data we collect, how we use it, how we protect it, and what rights you have. By using Hairfy, you agree to the practices described in this policy.
+HairMe (“HairMe”, “we”, “our”) is a mobile application that uses AI-powered technology to apply hairstyle and hair color transformations to user-uploaded photos. This Privacy Policy explains what personal data we collect, how we use it, how we protect it, and what rights you have. By using HairMe, you agree to the practices described in this policy.
 
 # 2. Data We May Collect
 User-provided content – Photos you upload or take within the app for hairstyle/color processing.
@@ -35,7 +35,7 @@ These third parties are obligated to use your data only for providing their serv
 # 5. How We Use Your Information
 We use your data to:
 
-Operate and improve Hairfy
+Operate and improve HairMe
 
 Process your hairstyle and color transformations
 
@@ -62,7 +62,7 @@ Support messages – Kept for follow-up purposes only.
 We take privacy seriously. No employee can view your photos unless you contact support and explicitly request assistance.
 
 # 8. Children’s Privacy
-Hairfy is not designed for children under 4 (or the minimum digital consent age in your region). We do not knowingly collect personal data from children. If we inadvertently collect such data, contact us to have it removed.
+HairMe is not designed for children under 4 (or the minimum digital consent age in your region). We do not knowingly collect personal data from children. If we inadvertently collect such data, contact us to have it removed.
 
 # 9. International Transfers
 Your data may be processed on servers outside your country. We use legally approved safeguards such as Standard Contractual Clauses to ensure your data remains protected during international transfers.
@@ -72,6 +72,6 @@ We may occasionally revise this policy to reflect updates in our technology, leg
 
 # 11. Contact Us
 If you have any questions or concerns about your privacy, contact us at:
-E-mail: app.hairfy@gmail.com
+E-mail: app.hairme@gmail.com
 
-Thank you for using Hairfy. We are committed to protecting your privacy while helping you discover your best hairstyle.
+Thank you for using HairMe. We are committed to protecting your privacy while helping you discover your best hairstyle.
