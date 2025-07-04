@@ -1,77 +1,62 @@
-Last updated: 08.06.2025
+Last updated: 04.07.2025
 
-# 1. Introduction
-HairMe (“HairMe”, “we”, “our”) is a mobile application that uses AI-powered technology to apply hairstyle and hair color transformations to user-uploaded photos. This Privacy Policy explains what personal data we collect, how we use it, how we protect it, and what rights you have. By using HairMe, you agree to the practices described in this policy.
+1. Introduction
+HairMe (“HairMe”, “we”, “our”) is a mobile application that uses AI-powered technology to apply hairstyle and hair color transformations to user-uploaded photos. This Privacy Policy explains what information we process, how we use it, and how we protect your privacy. By using HairMe, you agree to the practices described in this policy.
 
-# 2. Data We May Collect
-User-provided content – Photos you upload or take within the app for hairstyle/color processing.
+2. What Data We Use
+We do not collect or store any personal data. The following types of information are processed temporarily and only for the purpose of providing the core functionality of the app:
 
-Purchase and credit data – In-app purchase details via Apple, including transaction IDs, product type, pricing, and your current credit balance.
+Photos: You may upload or capture photos solely to visualize different hairstyles and hair colors.
+🔒 Face data is never stored — we do not retain or collect any facial information. The photos are only used to apply hairstyle/color changes and are deleted automatically after processing.
 
-Usage and diagnostics – Events such as button taps, page views, crash reports, performance logs, device locale, and time zone.
+3. How We Process Your Photos
 
-# 3. How We Process Your Photos
-On-device pre-processing – Basic edits like resizing or format conversion may be done locally.
+AI processing: Hairstyles and colors are applied by automated models. No human reviews your photo unless you specifically request help from support.
 
-Encrypted upload – Photos are transmitted to our servers over secure TLS connections.
+No storage: Uploaded photos and results are automatically deleted after processing. We do not retain any image, face data, or metadata.
 
-Cloud AI processing – Our servers apply hairstyle and color effects via automated AI models. Human review is only used if you explicitly request help.
+Final delivery: The transformed image is returned to your device for you to save or share as you wish. After delivery, it is no longer accessible to us in any form.
 
-Temporary storage – All uploaded and generated images are encrypted and automatically deleted after processing is complete.
+4. Third-Party Services
+We may integrate with the following services, which operate under strict confidentiality terms:
 
-Delivery – Final images are returned to your device for saving or sharing, after which they are permanently deleted from servers and backups.
+Apple In-App Purchases (for handling transactions)
 
-# 4. Third-Party Services
-We may use the following services:
+Cloud AI Providers (for applying hairstyle and color transformations)
 
-Apple In-App Purchases (for transactions and licensing)
+These services only process data to the extent necessary to provide their functions.
 
-Cloud AI Providers (for GPU-powered processing of hairstyle and color transformations)
+5. How We Use Your Information
+We use the temporary processing data only to:
 
-Firebase Crashlytics (for error tracking, optional)
+Apply hairstyle and color transformations
 
-These third parties are obligated to use your data only for providing their services securely and confidentially.
+Process in-app purchases and credits
 
-# 5. How We Use Your Information
-We use your data to:
+Improve app performance and stability
+We do not use your data for tracking, profiling, or advertising purposes.
 
-Operate and improve HairMe
+6. Data Retention
+Photos & face data: Never stored. Automatically deleted after transformation.
 
-Process your hairstyle and color transformations
+Purchase info: Retained by Apple under its own policies.
 
-Fulfill purchases and manage credits
+We do not store any biometric, facial, or personally identifiable information.
 
-Prevent fraud and misuse
+7. Security Measures
+No employee has access to your photos unless you contact us and explicitly request support.
 
-Fix bugs and improve performance
+Face data is never saved.
 
-Provide support
+8. Children’s Privacy
+HairMe is not designed for users under age 4. We do not knowingly collect any data from children. If you believe data was shared with us in error, please contact us for prompt deletion.
 
-Optionally send you feature updates or promotional messages (only with your consent)
+9. International Transfers
+If your photo is processed using cloud AI, it may temporarily pass through international servers with robust data protection measures in place.
 
-# 6. Data Retention
-Photos & AI outputs – Deleted automatically after processing.
+10. Changes to This Policy
+We may revise this policy from time to time. Please refer to the "Last updated" date to check for changes.
 
-Purchases & credit usage – Retained for transaction and accounting purposes.
-
-Crash & usage logs – Stored for diagnosing technical issues.
-
-Support messages – Kept for follow-up purposes only.
-
-# 7. Security Measures
-We take privacy seriously. No employee can view your photos unless you contact support and explicitly request assistance.
-
-# 8. Children’s Privacy
-HairMe is not designed for children under 4 (or the minimum digital consent age in your region). We do not knowingly collect personal data from children. If we inadvertently collect such data, contact us to have it removed.
-
-# 9. International Transfers
-Your data may be processed on servers outside your country. We use legally approved safeguards such as Standard Contractual Clauses to ensure your data remains protected during international transfers.
-
-# 10. Changes to This Policy
-We may occasionally revise this policy to reflect updates in our technology, legal obligations, or services. Please check the “Last updated” date to stay informed.
-
-# 11. Contact Us
-If you have any questions or concerns about your privacy, contact us at:
-E-mail: app.hairme@gmail.com
-
-Thank you for using HairMe. We are committed to protecting your privacy while helping you discover your best hairstyle.
+11. Contact Us
+For any questions or privacy concerns, feel free to reach us at:
+📧 app.hairme@gmail.com
